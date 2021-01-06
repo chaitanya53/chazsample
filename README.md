@@ -1,2 +1,2 @@
-#myapp 
-THis is a github test app.
+&myapp 
+This is a github test app.
